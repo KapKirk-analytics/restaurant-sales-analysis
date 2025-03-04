@@ -45,7 +45,7 @@ This project analyzes **restaurant sales trends, tipping behavior, and tip-out d
 - [`seasonal_trends.sql`](https://github.com/KapKirk-analytics/restaurant-sales-analysis/blob/main/Seasonal%20Trends%20in%20Sales%20and%20Tips.sql) → SQL query for seasonal trends in sales & tipping.  
 - [`food_vs_alcohol.sql`](https://github.com/KapKirk-analytics/restaurant-sales-analysis/blob/main/Food%20vs%20Alcohol%20Sales%20Contribution.sql) → SQL query comparing food vs. alcohol sales.  
 - [`tip_out_distribution.sql`](https://github.com/KapKirk-analytics/restaurant-sales-analysis/blob/main/Tip%20Out%20Distribution.sql) → SQL query analyzing tip-outs & fairness.  
-- [`Tableau Dashboard.pdf`](https://github.com/KapKirk-analytics/restaurant-sales-analysis/blob/main/Weekly_Sales_Tips.png) → Visual representation of key findings.  
+- [`Tableau Dashboard.png`](https://github.com/KapKirk-analytics/restaurant-sales-analysis/blob/main/Weekly_Sales_Tips.png) → Visual representation of key findings.  
 
 ---
 
